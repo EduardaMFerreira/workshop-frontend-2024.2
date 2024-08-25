@@ -1,0 +1,31 @@
+.footer{
+    background-color: #111111;
+    color: white;
+    text-align: center;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    margin-right: 1em;
+    font-size: 12px;
+}
+
+.footer ul{
+    padding: 50px;
+    list-style-type: none;
+
+}
+
+.footer li{
+    padding: 70px;
+    display: inline;
+}
+
+.footer a:hover{
+    color: #999;
+}
+
+
+
+

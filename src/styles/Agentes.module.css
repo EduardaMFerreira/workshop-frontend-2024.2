@@ -1,0 +1,41 @@
+
+.agenteslist {
+    background-color: rgb(170, 159, 159);
+    background-color: rgba(0, 0, 0, 0.33);
+    color: white;
+    text-align: center;
+    margin: 0px 80px 0px 80px;
+}
+
+.agenteslist li{
+   padding: 100px 15px 100px 15px;
+   border: 1px solid rgba(0, 0, 0, 0.1);
+   background-color: rgba(0, 0, 0, 0.33);
+   height: 400px;
+   display: inline-block;
+   margin: 80px 20px;
+   margin-right: 3em;
+}
+
+.agenteslist img{
+    transition: 0.7s;
+}
+
+
+.agenteslist img:hover{
+    width: 200px;
+}
+
+
+.agenteslist p{
+    width: 300px;
+   height: 400px;
+}
+
+.agenteslist h2{
+    font-size: 40px;
+}
+
+.agenteslist h2:hover{
+    color: #ff4655;
+}
